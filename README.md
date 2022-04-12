@@ -1,1 +1,1 @@
-# vrecCollege Dassnagar Nizamabad Telangana
+# VrecCollege Dassnagar Nizamabad Telangana
