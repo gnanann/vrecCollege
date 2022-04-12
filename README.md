@@ -1,1 +1,1 @@
-# vrecCollege situated in Dassnagar Nizamabad Telangana
+# vrecCollege Dassnagar Nizamabad Telangana
