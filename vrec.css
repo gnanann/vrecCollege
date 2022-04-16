@@ -65,7 +65,9 @@ color: white;
    }
 
 *{
-   background-position: 100rem;
+       background-position-x: center;
+    background-position-y: center;
+ 
 
 
 
